@@ -1,13 +1,3 @@
-# GPA-calculator
-A GPA calculator implemented by Matlab / Octave.
-
-## How to use
-
-+ Modify the data in ```dataset.mat```
-
-example:
-
-```Matlab
 %   Choose a GPA calculation algorithm.
 %   The following are available:
 %   - 5.0
@@ -24,13 +14,3 @@ example:
 %	---
 %	2017 Autumn
 	80		5
-```
-
-+ Run the script ```GPA_calculator.m```
-
-example:
-
-```shell
-$ octave-cli GPA_calculator.m 
-GPA =  3.1852
-```
